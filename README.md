@@ -1,2 +1,2 @@
-# Class-70-Wily-Stage-3-AutoPopulateInput
-Class 70 Wily Stage 3 AutoPopulateInput
+# AutoPopulateTextInput
+Tab Bar icons and auto-populate text
